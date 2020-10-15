@@ -4,6 +4,11 @@
 
 Yooo!
 
+|||
+|---|---|
+|![irfnrdh github stat](https://github-readme-stats.vercel.app/api?username=irfnrdh&show_icons=true&hide_border=true&theme=vue)|![irfnrdh top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=irfnrdh&layout=compact&hide_border=true&theme=vue)| 
+
+
 <!--
 **irfnrdh/irfnrdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
