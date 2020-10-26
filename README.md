@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-Yooo!
+Yooo! ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfndh&hide=javascript,html&theme=radical&layout=compact)
+
 
 |||
 |---|---|
