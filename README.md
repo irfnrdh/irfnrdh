@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact me
+- [irfnrdh@gmail.com](mailto:irfnrdh@gmail.com)
+- [irfnrdh blog](https://irfnrdh.github.io)
