@@ -9,6 +9,9 @@
 <!--
 ![](#assets/gh-banner.jpg)
 
+Part time artist, full time creator
+[Learn. Create. Develop. Share]
+
 ### Hi there 👋
 
 Yooo! !
