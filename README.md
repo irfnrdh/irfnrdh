@@ -1,8 +1,4 @@
-![](assets/gh-banner.jpg)
 
-### Hi there 👋
-
-Yooo! !
 
 
 |||
@@ -11,6 +7,12 @@ Yooo! !
 
 
 <!--
+![](#assets/gh-banner.jpg)
+
+### Hi there 👋
+
+Yooo! !
+
 **irfnrdh/irfnrdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,7 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Contact me
-- [irfnrdh@gmail.com](mailto:irfnrdh@gmail.com)
-- [irfnrdh blog](https://irfnrdh.github.io)
-- [KodeKeras](https://kodekeras.my.id)
+
