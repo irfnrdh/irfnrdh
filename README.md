@@ -1,10 +1,4 @@
-
-
-
-
-
-
-![](#assets/gh-banner.jpg)
+![](assets/gh-banner.jpg)
 
 Part time artist, full time creator
 [Learn. Create. Develop. Share]
