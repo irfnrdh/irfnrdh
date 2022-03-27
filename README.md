@@ -1,16 +1,20 @@
 
 
 
+
+
+
+![](#assets/gh-banner.jpg)
+
+Part time artist, full time creator
+[Learn. Create. Develop. Share]
+
 |||
 |---|---|
 |![irfnrdh github stat](https://github-readme-stats.vercel.app/api?username=irfnrdh&show_icons=true&hide_border=true&theme=vue)|![irfnrdh top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=irfnrdh&layout=compact&hide_border=true&theme=vue)| 
 
 
 <!--
-![](#assets/gh-banner.jpg)
-
-Part time artist, full time creator
-[Learn. Create. Develop. Share]
 
 ### Hi there 👋
 
