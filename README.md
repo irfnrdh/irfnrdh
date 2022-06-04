@@ -27,7 +27,7 @@ export default () => ({
     "Writing", "Psychology", "Philosophy", "agent of change"
   ],
   simpleThing:[
-    "Part time artist, full time creator ",
+    "Part time artist, full time creator",
     "Learn. Create. Develop. Share"
   ]
 });
@@ -35,7 +35,7 @@ export default () => ({
 
 <br>
 
-### 🌱 I’m currently learning to build ruema after time to say goodbye
+### 🌱 I’m currently learning to build Ruema since covid-19 start March 2020
 ### 💬 Ask me anything about life & idea
 ### 📧 Reach me: **irfnrdh@gmail.com**
 ### 👾 Check out dailynotes on [Twitter](https://twitter.com/irfnrdh/)
