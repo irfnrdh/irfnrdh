@@ -10,6 +10,7 @@
 
 
 <h6 align="center">
+  <img src="https://img.shields.io/github/followers/irfnrdh">
   <img src="https://komarev.com/ghpvc/?username=irfnrdh" alt="irfnrdh" /> <br>
   <a href="https://irfnrdh.gumroad.com/">Store</a> • <a href="https://www.paypal.me/irfnrdh">Donate</a> • <a href="https://irfnrdh.substack.com">Newsletter</a></h6>
   
