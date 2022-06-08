@@ -1,5 +1,6 @@
 <br>  
 
+# Hi! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 ![x](assets/gh-banner.jpg)
 
 <!---
@@ -35,7 +36,7 @@ export default () => ({
 
 <br>
 
-### 🌱 I’m currently learning to build Ruema since covid-19 start March 2020
+### 🌱 I’m currently learning to build [Ruema](https://ruema.xyz) since covid-19 start March 2020
 ### 💬 Ask me anything about life & idea
 ### 📧 Reach me: **irfnrdh@gmail.com**
 ### 👾 Check out dailynotes on [Twitter](https://twitter.com/irfnrdh/)
