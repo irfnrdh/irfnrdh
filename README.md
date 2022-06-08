@@ -8,8 +8,11 @@
 [![Linkedin: irfnrdh](https://img.shields.io/badge/-irfnrdh-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/irfnrdh/)](https://www.linkedin.com/id/irfnrdh/)
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irfnrdh" alt="irfnrdh" /> </p>
 
+<h6 align="center">
+  <img src="https://komarev.com/ghpvc/?username=irfnrdh" alt="irfnrdh" /> <br>
+  <a href="https://irfnrdh.gumroad.com/">Store</a> • <a href="https://www.paypal.me/irfnrdh">Donate</a> • <a href="https://irfnrdh.substack.com">Newsletter</a></h6>
+  
 
 ```js
 export default () => ({
