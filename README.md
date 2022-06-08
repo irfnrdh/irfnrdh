@@ -64,6 +64,15 @@ export default () => ({
 <br>
 <br>
 
+
+---
+
+![GitHub metrics](https://metrics.lecoq.io/irfnrdh)  
+
+---
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfnrdh)  
+
 <!--
 Part time artist, full time creator
 [Learn. Create. Develop. Share]
