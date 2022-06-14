@@ -104,5 +104,7 @@ Here are some ideas to get you started:
 -->
 
 
-<audio autoplay="" controls="" id="" loop="" preload="metadata" src="https://cloud-b5knydoz5-hack-club-bot.vercel.app/0imagine_dragons_-_all_eyes__audio_.mp3" title="https://cloud-b5knydoz5-hack-club-bot.vercel.app/0imagine_dragons_-_all_eyes__audio_.mp3"><p>Your browser does not support the <code>audio</code> element.</p></audio>
-
+<!-- <audio controls autoplay loop>
+  <source src="https://cloud-b5knydoz5-hack-club-bot.vercel.app/0imagine_dragons_-_all_eyes__audio_.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> -->
