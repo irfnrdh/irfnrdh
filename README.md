@@ -50,9 +50,9 @@ export default () => ({
 <!-- 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irfnrdh&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
 
-<!-- <p float="right"> <img src="https://github-profile-trophy.vercel.app/?username=irfnrdh&theme=onedark" alt="hrt" /> </p> -->
+<p float="right"> <img src="https://github-profile-trophy.vercel.app/?username=irfnrdh&theme=onedark" alt="hrt" /> </p> 
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfnrdh&show_icons=true&layout=compact&theme=tokyonight" alt="hrt" /> </p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfnrdh&show_icons=true&layout=compact&theme=tokyonight" alt="hrt" /> </p>
 
 ## Connect with me:
 
