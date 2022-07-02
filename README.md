@@ -47,7 +47,7 @@ export default () => ({
 ### 💻 Visit Bad website [🌐](http://irfnrdh.github.io/) / [🌐](http://kodekeras.my.id/)
 <br>
 
-
+<!-- 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irfnrdh&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
 
 <!-- <p float="right"> <img src="https://github-profile-trophy.vercel.app/?username=irfnrdh&theme=onedark" alt="hrt" /> </p> -->
@@ -73,7 +73,7 @@ export default () => ({
 ---
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfnrdh)  
-
+-->
 <!--
 Part time artist, full time creator
 [Learn. Create. Develop. Share]
