@@ -2,7 +2,7 @@
 
 # Hi! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ini+semua+akan+ditinggalkan;Semoga+bermanfaat+untuk+kamu!)](https://git.io/typing-svg)
-![x](assets/gh-banner.jpg)
+<!-- ![x](assets/gh-banner.jpg) -->
 
 <!---
 [![Twitter: irfnrdh](https://img.shields.io/twitter/follow/irfnrdh?style=social)](https://twitter.com/irfnrdh)  &nbsp;&nbsp;&nbsp;&nbsp;
