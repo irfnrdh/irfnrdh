@@ -48,8 +48,8 @@ export default () => ({
 ### 💻 Visit Bad website [🌐](http://irfnrdh.github.io/) / [🌐](http://kodekeras.my.id/)
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vca692ntnj56xxlt1uz44q7wv)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vca692ntnj56xxlt1uz44q7wv&width=600)
+  
 <!-- 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irfnrdh&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
 
