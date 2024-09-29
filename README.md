@@ -1,6 +1,6 @@
 <br>  
 
-# Hi! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+<!--# Hi! There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ini+semua+akan+ditinggalkan;Semoga+bermanfaat+untuk+kamu!)](https://git.io/typing-svg)
 <!-- ![x](assets/gh-banner.jpg) -->
 
@@ -10,12 +10,13 @@
 -->
 
 
-<h6 align="center">
-  <img src="https://img.shields.io/github/followers/irfnrdh">
+<h6 align="left">
+ <!-- <img src="https://img.shields.io/github/followers/irfnrdh">-->
   <img src="https://komarev.com/ghpvc/?username=irfnrdh" alt="irfnrdh" /> <br>
-  <a href="https://irfnrdh.gumroad.com/">Store</a> • <a href="https://www.paypal.me/irfnrdh">Donate</a> • <a href="https://irfnrdh.substack.com">Newsletter</a></h6>
+  <!--<a href="https://irfnrdh.gumroad.com/">Store</a> • <a href="https://www.paypal.me/irfnrdh">Donate</a> • <a href="https://irfnrdh.substack.com">Newsletter</a>-->
+</h6>
   
-
+<!--
 ```js
 export default () => ({
   notionUrl: "https://kodekeras.my.id/",
@@ -38,7 +39,8 @@ export default () => ({
   ]
 });
 ```
-
+-->
+<!--
 <br>
 
 ### 🌱 I’m currently learning to build [Ruema](https://ruema.xyz) since covid-19 start March 2020
@@ -49,7 +51,7 @@ export default () => ({
 <br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vca692ntnj56xxlt1uz44q7wv&width=600)
-  
+  -->
 <!-- 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irfnrdh&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
 
