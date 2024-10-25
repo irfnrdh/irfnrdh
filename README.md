@@ -4,7 +4,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ini+semua+akan+ditinggalkan;Semoga+bermanfaat+untuk+kamu!)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+will+all+be+left+behind;Hope+it's+useful+for+you)](https://git.io/typing-svg)
 
-""
 <!-- ![x](assets/gh-banner.jpg) -->
 
 <!---
